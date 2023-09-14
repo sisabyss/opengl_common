@@ -1,0 +1,13 @@
+# linux files
+.cache/
+build/
+# windows files
+.vs/
+out/
+CMakeSettings.json
+.vscode/
+# clone files
+cmake-build-debug/
+cmake-build-release/
+.idea/
+.clang-format
